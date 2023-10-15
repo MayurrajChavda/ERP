@@ -1,0 +1,6 @@
+emp_id,emp_name,emp_join_date,emp_dob,emp_gender,emp_email_id,emp_address,emp_salary
+1,Mayurraj Chavda,1/4/2022,11/4/1995,m,chavda.mayurraj@gmail.com,-,20000
+2,Devang Gadvi,2/5/2022,11/4/1995,m,devang.gadvi@gmail.com,-,20000
+3,Bhaumik Bhatt,4/6/2023,11/4/1995,m,bhaumik.bhatt@gmail.com,-,20000
+4,Ashok,5/6/2023,11/4/1995,m,ashok@gmail.com,-,20000
+5,Mohsim,1/5/2023,11/4/1995,m,mohsim@gmail.com,-,20000

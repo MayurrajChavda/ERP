@@ -1,0 +1,78 @@
+id,name,durations_min,level
+1,PHP Intro,15,0
+2,PHP Install,15,0
+3,PHP Syntax,15,0
+4,PHP Comments,15,0
+5,PHP Variables,15,0
+6,PHP Echo / Print,15,0
+7,PHP Data Types,15,0
+8,PHP Strings,15,0
+9,PHP Numbers,15,0
+10,PHP Math,15,0
+11,PHP Constants,15,0
+12,PHP Operators,15,0
+13,PHP If...Else...Elseif,15,0
+14,PHP Switch,15,0
+15,PHP Loops,15,0
+16,PHP Functions,15,0
+17,PHP Arrays,15,0
+18,PHP Superglobals,15,0
+19,PHP RegEx,15,0
+20,PHP Form Handling,15,0
+21,PHP Form Validation,15,0
+22,PHP Form Required,15,0
+23,PHP Form URL/E-mail,15,0
+24,PHP Form Complete,15,0
+25,PHP Date and Time,15,0
+26,PHP Include,15,0
+27,PHP File Handling,15,0
+28,PHP File Open/Read,15,0
+29,PHP File Create/Write,15,0
+30,PHP File Upload,15,0
+31,PHP Cookies,15,0
+32,PHP Sessions,15,0
+33,PHP Filters,15,0
+34,PHP Filters Advanced,15,0
+35,PHP Callback Functions,15,0
+36,PHP JSON,15,0
+37,PHP Exceptions,15,0
+38,MySQL Database,15,0
+39,MySQL Database,15,0
+40,MySQL Connect,15,0
+41,MySQL Create DB,15,0
+42,MySQL Create Table,15,0
+43,MySQL Insert Data,15,0
+44,MySQL Get Last ID,15,0
+45,MySQL Insert Multiple,15,0
+46,MySQL Prepared,15,0
+47,MySQL Select Data,15,0
+48,MySQL Where,15,0
+49,MySQL Order By,15,0
+50,MySQL Delete Data,15,0
+51,MySQL Update Data,15,0
+52,MySQL Limit Data,15,0
+53,PHP What is OOP,15,1
+54,PHP Classes/Objects,15,1
+55,PHP Constructor,15,1
+56,PHP Destructor,15,1
+57,PHP Access Modifiers,15,1
+58,PHP Inheritance,15,1
+59,PHP Constants,15,1
+60,PHP Abstract Classes,15,1
+61,PHP Interfaces,15,1
+62,PHP Traits,15,1
+63,PHP Static Methods,15,1
+64,PHP Static Properties,15,1
+65,PHP Namespaces,15,1
+66,PHP Iterables,15,1
+67,PHP XML Parsers,15,1
+68,PHP SimpleXML Parser,15,1
+69,PHP SimpleXML - Get,15,1
+70,PHP XML Expat,15,1
+71,PHP XML DOM,15,1
+72,AJAX Intro,15,1
+73,AJAX PHP,15,1
+74,AJAX Database,15,1
+75,AJAX XML,15,1
+76,AJAX Live Search,15,1
+77,AJAX Poll,15,1
